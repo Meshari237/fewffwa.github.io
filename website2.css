@@ -1,0 +1,39 @@
+body{
+    background-image:
+        url("https://i.redd.it/q2p74h8iu5651.jpg")
+}
+na{
+    font-size: 30px;
+    list-style-type: none;
+     margin: 0;
+  padding: 0;
+  overflow: hidden;
+    background-color: #FFFF00
+
+}
+na2{
+    font-size: 60px;
+    list-style-type: none;
+     margin: 0;
+  padding: 0;
+  overflow: hidden;
+      width:200px; 
+            height:200px; 
+            position: fixed; 
+            top: 50%; 
+            left: 50%;  
+
+}
+li{
+    float:left;
+}
+li a {
+display: block;
+  padding: 8px;
+   background-color: #FFFF00
+}
+h1{
+    color: black;
+    font-size: 40px    
+    
+}
