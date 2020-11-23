@@ -3,7 +3,7 @@ let cnv, img, img1;
 function preload()
 {
     img = loadImage('lanky.gif');
-    img1 = loadImage('monky.png');
+    img1 = loadImage('Monky.png');
 }
 
 function setup()
